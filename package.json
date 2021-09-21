@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "mercadopago": "^1.5.8",
+    "uuid": "^3.0.1"
+  }
+}
